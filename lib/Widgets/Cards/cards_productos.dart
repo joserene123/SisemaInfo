@@ -61,9 +61,9 @@ class _CardsProductosState extends State<CardsProductos> {
                     // Text('Provedor: ${widget.proveedor}'),
                     // const Text('Fecha Pedido: 12/12/12'),
                   ),
-                  FittedBox(
-                    child: Text('Producto: ${widget.categoria}'),
-                  ),
+                  // FittedBox(
+                  //   child: Text('Producto: ${widget.categoria}'),
+                  // ),
                   // Container(
                   //   child: AutoSizeText,
                   // )
